@@ -1,0 +1,35 @@
+Datenschutzerklärung
+
+Wir freuen uns über Ihr Interesse an unserer Website. Der Schutz Ihrer Privatsphäre ist für uns sehr wichtig. Nachstehend informieren wir Sie ausführlich über den Umgang mit Ihren Daten.
+
+1. Zugriffsdaten und Server-Logfiles
+
+Unser Webhosting-Anbieter erhebt Daten über Zugriffe auf die Seite und speichert diese als „Server-Logfiles“ ab. Folgende Daten werden protokolliert:
+
+- Besuchte Website
+- Uhrzeit zum Zeitpunkt des Zugriffes
+- Menge der gesendeten Daten in Byte
+- Quelle/Verweis, von welchem Sie auf die Seite gelangten
+- Verwendeter Browser
+- Verwendetes Betriebssystem
+- Verwendete IP-Adresse
+
+Diese Daten dienen nur statistischen Auswertungen und zur Verbesserung der Website. Der Websitebetreiber behält sich allerdings vor, die Server-Logfiles nachträglich zu überprüfen, sollten konkrete Anhaltspunkte auf eine rechtswidrige Nutzung hinweisen.
+
+2. Cookies
+
+Diese Website verwendet Cookies. Dabei handelt es sich um kleine Textdateien, die auf Ihrem Endgerät gespeichert werden. Ihr Browser greift auf diese Dateien zu. Durch den Einsatz von Cookies erhöht sich die Benutzerfreundlichkeit und Sicherheit dieser Website.
+
+3. Kontaktaufnahme
+
+Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
+
+4. Recht auf Auskunft, Löschung, Sperrung
+
+Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.
+
+5. Änderung der Datenschutzerklärung
+
+Diese Datenschutzerklärung kann jederzeit angepasst werden, um rechtlichen Anforderungen gerecht zu werden oder um Änderungen unserer Leistungen umzusetzen. Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung.
+
+Stand: [Aktuelles Datum]
