@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fux</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+
+    <script type="text/javascript"
+        src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=HSQb7c5fZlPGyHMkmr2IMgp-4j8RrCMChyPSxjb_cDMdCc9HWXoYWYd2LBY1qwI8NZFIVySkg0_VKJyb-q3CnKD13V5RYsheyqPJO2-qS00eeK6ru4iQhLFBGEVFVLUO53w0Nj5-uADq8kmJqzpe2Ox2UHS6KsPnv3oc0g72WruZY_2YqpPQ7AjJn2b0S2-nR8dNs4HcJMxvlODHgj45rw"
+        charset="UTF-8"></script>
+    <script src="script.js"></script>
+</head>
+
+<body id="body" onload="showPizzas(), showItems(), showWarmFoods(), showColdFoods(), orderButton(), imgSlider()">
+
+    <div class="header">
+        <div class="foodLinks">
+            <a href="#pizzaContainer">Pizza</a>
+            <a href="#warmFoodsContainer">Warme Küche</a>
+            <a href="#coldFoodsContainer">Kalte Küche</a>
+        </div>
+        <img class="fuxLogo" src="image/fuxLogo.jpg">
+        <div class="foodLinks">
+            <a href="#mapSection">Alkoholfrei</a>
+            <a href="#mapSection">Cocktails</a>
+            <a href="#mapSection">Weine</a>
+        </div>
+    </div>
+
+
+    <div class="welcommeText">
+
+        <div id="imgSlider" class="fuxInsideImgContainer">
+  
+        </div>
+
+        <h1>Willkommen beim Fux!</h1>
+        <span>Im Herzen von Visp begrüßt dich das Fux mit einer fusionierten Küche, die Tradition und
+            Innovation vereint. Unsere Leidenschaft für frische Zutaten und kreative Zubereitung spiegelt sich in
+            jedem Gericht wider. Bestelle deine Lieblingsgerichte ganz bequem online und genieße sie im Komfort
+            deines Zuhauses. Oder besuche uns persönlich und erlebe unsere gemütliche Atmosphäre vor Ort. Ob zum
+            romantischen Dinner zu zweit oder für gesellige Abende mit Freunden und Familie - im Fux ist für jeden
+            Geschmack etwas dabei. Wir freuen uns darauf, dich bald bei uns begrüßen zu dürfen!
+        </span>
+    </div>
+
+
+    <div class="mainContainer">
+        <div id="pizzaContainer" class="menuContainer"></div>
+        <div id="warmFoodsContainer" class="menuContainer"></div>
+        <div id="coldFoodsContainer" class="menuContainer"></div>
+
+        <div id="basketContainer" class="basketContainer">
+            <h2>Warenkorb</h2>
+            <div id="basket"></div>
+            <div class="order">
+                <h2 id="showPrice" class="showPrice"></h2>
+                <div id="order"></div>
+            </div>
+            <div id="">
+
+            </div>
+        </div>
+    </div>
+
+    <div id="mapSection" class="mapSection">
+        <h2>Wie komme ich zum FUX?</h2>
+        <iframe class="maps"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2756.92923778453!2d7.878849077622049!3d46.291379971099694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478f6b1a5eb68ce1%3A0xd46d40ec34734698!2sRestaurant%20%E2%80%93%20Brasserie%20Fux%20in%20Visp!5e0!3m2!1sde!2sch!4v1712717449331!5m2!1sde!2sch"
+            width="1000" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
+
+    </div>
+    <div class="footer">
+        <div class="footerLink">
+            <a href="datenschutz">Datenschutz</a>
+            <p>|</p>
+            <a href="impressum">Impressum</a>
+        </div>
+    </div>
+
+
+</body>
+
+</html>
